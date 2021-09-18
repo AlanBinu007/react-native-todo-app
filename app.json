@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-complete-guide",
-    "slug": "rn-complete-guide",
+    "name": "Todo App",
+    "slug": "Todo-App",
     "platforms": [
       "ios",
       "android",
